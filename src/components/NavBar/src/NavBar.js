@@ -4,7 +4,6 @@ import Secciones from "./Secciones";
 import "../styles/NavBar.css";
 
 const NavBar = () => {
-
   return (
     <header>
       <Logo />

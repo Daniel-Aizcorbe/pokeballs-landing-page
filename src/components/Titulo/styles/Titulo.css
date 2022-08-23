@@ -1,0 +1,21 @@
+h1 {
+  font-size: 40px;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  margin: 10px;
+  width: 80%;
+}
+
+p {
+  font-family: Verdana,sans-serif;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.contenedor-titulo {
+  margin: 60px 0px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

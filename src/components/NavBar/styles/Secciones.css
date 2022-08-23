@@ -1,0 +1,29 @@
+.nav-secciones {
+  max-width: 40%;
+}
+
+.list-secciones {
+  margin: 0;
+  width: 100%;
+  list-style-type: none;
+  padding: 0 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.contenedor-seccion {
+  padding: 20px;
+  text-align: center;
+}
+
+.seccion {
+  font-size: 17px;
+  font-family: "Roboto",sans-serif;
+  text-decoration: none;
+  color: #353535;
+}
+
+.seccion:hover {
+  color: #D9D9D9;
+}

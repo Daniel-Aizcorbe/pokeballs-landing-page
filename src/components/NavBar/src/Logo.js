@@ -7,6 +7,7 @@ const Logo = () => {
       <img
         src={"#"}
         alt="logo de la empresa"
+        className="logo"
       />
   );
 };
